@@ -17,7 +17,7 @@ Docker imaget for denne applikasjonen er tilgjengelig på Docker Hub:
 ## Instruksjoner
 1. Klon prosjektet til din lokale maskin:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/frabraham/Dockerisert-Applikasjon.git)
    cd <repository-folder>
 2. Start applikasjonen ved å kjøre:
    ```bash
